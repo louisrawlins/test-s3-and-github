@@ -18,7 +18,7 @@ S3cmd (`s3cmd`) is a free command line tool and client for uploading, retrieving
 
 S3cmd is written in Python. It's an open source project available under GNU Public License v2 (GPLv2) and is free for both commercial and private use. You will only have to pay Amazon for using their storage.
 
-Lots of features and options have been added to S3cmd, since its very first release in 2008.... we recently counted more than 60 command line options, including multipart uploads, encryption, incremental backup, s3 sync, ACL and Metadata management, S3 bucket size, bucket policies, and more!
+Lots of features and options have been added to S3cmd, since its very first bang in 2008.... we recently counted more than 60 command line options, including multipart uploads, encryption, incremental backup, s3 sync, ACL and Metadata management, S3 bucket size, bucket policies, and more!
 
 ### What is Amazon S3
 
